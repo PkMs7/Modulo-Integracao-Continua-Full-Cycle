@@ -12,3 +12,11 @@
 
 - https://github.com/marketplace/actions/build-and-push-docker-images
 - https://github.com/docker/setup-buildx-action
+
+## Sonarqube Cheat Sheets
+
+- https://groupe-sii.github.io/cheat-sheets/sonarqube/index.html
+
+## Documentação Sonarqube
+
+- https://www.sonarsource.com/products/sonarqube/
